@@ -74,7 +74,7 @@ A: The plugin caches API responses for 24 hours using WordPress transients. This
 Q4: What happens if an API fails?
 A: If an API fails to return results, the plugin will fall back to other data sources or display a "No results found" message.
 
-Screenshots
+
 Q&A Form : A clean, dark-themed form for submitting questions.
 Analytics Dashboard : Displays query statistics, feedback, and data source usage.
 Settings Page : Configure API keys and other plugin settings.
