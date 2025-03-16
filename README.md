@@ -1,5 +1,5 @@
 QA Wikipedia Helper
-Description
+
 The QA Wikipedia Helper is a WordPress plugin designed to answer user questions by pulling data from multiple sources, including:
 
 Wikipedia
