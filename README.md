@@ -1,4 +1,5 @@
 QA Wikipedia Helper
+Developed by Dwight Bedsaul
 
 The QA Wikipedia Helper is a WordPress plugin designed to answer user questions by pulling data from multiple sources, including:
 
@@ -88,8 +89,12 @@ Initial release with basic functionality.
 Support
 If you encounter any issues or have feature requests, please contact us at:
 
-Email : dakota@contentsocial.net
+
 Website : https://www.contentsocial.net/
+https://www.youtube.com/@dwightbedsaul
+https://www.crunchbase.com/person/dwight-bedsaul
+https://www.linkedin.com/in/dwight-bedsaul-3b7a92344/
+https://dev.to/dwightbedsaul
 
 
 Credits
